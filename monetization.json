@@ -1,8 +1,8 @@
 {
   "enabled": false,
   "client": "ca-pub-3168949254831390",
-  "topSlot": "",
-  "bottomSlot": "",
+  "topSlot": "8041624546",
+  "bottomSlot": "3148390518",
   "h5": false,
   "testMode": false,
   "consentScript": ""
